@@ -4,7 +4,7 @@
 
 <h2>Hello Arsh!</h2>
 
-<p>This is my NextWork web application working!</p>
+<p>This is my Web Application working!</p>
 
 </body>
 
